@@ -5,10 +5,10 @@ Sukurti 5 testai:
 
 1. CheckBoxPaieska;
    1. Sukuriami Strings;
-   1.2. Įvedamas tekstas "Labas";
-   1.3.Paspaudžiamas mygtukas "Ieškoti";
-   1.4.Gaunamas rezultatas;
-   1.5.Assert.
+   2. Įvedamas tekstas "Labas";
+   3.Paspaudžiamas mygtukas "Ieškoti";
+   4.Gaunamas rezultatas;
+   5.Assert.
 2. ClickButtonEtika;
     2.1.Sukuriami Strings;
     2.2.Paspaudžiamas mygtukas "Etika";
